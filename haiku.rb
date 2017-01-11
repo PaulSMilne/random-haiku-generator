@@ -9,10 +9,6 @@ class Haiku
     @poem = [@line1, @line2, @line3]
   end 
 
-# def line_count
-#   return @poem.size
-# end
-
 def print_poem
   for line in @poem
     line.print_words
