@@ -36,7 +36,7 @@ A word has 3 attributes:
 
 ## Seasonal Words
 
-The significance of the seasons is important in traditional haiku imagery. In this program, the final line of the haiku use at least one work which has been flagged as 
+The significance of the seasons is important in traditional haiku imagery. In this program, the final line of the haiku uses at least one word which has been flagged thusly:
 
 `@is_seasonal = true`
 
