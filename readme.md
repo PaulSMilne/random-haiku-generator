@@ -12,7 +12,7 @@ Once downloaded, simply run `ruby haiku.rb`.
 
 These are typical outputs:
 
-`
+```
 First always will be 
 Will be mountain year bright young 
 Dark flowing was spring
@@ -24,7 +24,7 @@ Coming leaves summer
 Young winter year mouse 
 Flying days white young shorten 
 Autumn mountain is 
-`
+```
 
 You can add your own words in the `word_choice.rb` file.
 
